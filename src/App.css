@@ -1,0 +1,25 @@
+#basic-nav-dropdown{
+  color: #FAF5E9;
+  font-weight: bold;
+}
+
+.navbarbrand{
+  margin-left: 3px;
+}
+.dropdown-menu {
+  min-width: auto !important;
+}
+
+#basic-nav-dropdown {
+  width: fit-content;
+}
+
+.accordion-button::before {
+  margin-left:30px!important;
+  position: relative;
+  
+}
+
+
+
+
